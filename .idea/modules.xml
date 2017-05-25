@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/aiqiyi-client.iml" filepath="$PROJECT_DIR$/aiqiyi-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aiqiyi-common/aiqiyi-common.iml" filepath="$PROJECT_DIR$/aiqiyi-common/aiqiyi-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aiqiyi-controller/aiqiyi-controller.iml" filepath="$PROJECT_DIR$/aiqiyi-controller/aiqiyi-controller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aiqiyi-dao/aiqiyi-dao.iml" filepath="$PROJECT_DIR$/aiqiyi-dao/aiqiyi-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aiqiyi-pojo/aiqiyi-pojo.iml" filepath="$PROJECT_DIR$/aiqiyi-pojo/aiqiyi-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aiqiyi-service/aiqiyi-service.iml" filepath="$PROJECT_DIR$/aiqiyi-service/aiqiyi-service.iml" />
+    </modules>
+  </component>
+</project>

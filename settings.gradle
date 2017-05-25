@@ -1,0 +1,7 @@
+rootProject.name = 'aiqiyi-client'
+include 'aiqiyi-controller'
+include 'aiqiyi-common'
+include 'aiqiyi-service'
+include 'aiqiyi-dao'
+include 'aiqiyi-pojo'
+
